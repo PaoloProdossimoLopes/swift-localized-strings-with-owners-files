@@ -1,0 +1,11 @@
+//
+//  LocalizableString.strings
+//  CreateALocalizableStrings
+//
+//  Created by Paolo Prodossimo Lopes on 26/03/22.
+//
+
+"key1" = "value1";
+"key2" = "value2";
+"key3" = "value3";
+"key4" = "value4";
